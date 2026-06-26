@@ -27,7 +27,7 @@ A simple Python application that measures your internet connection's **download 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/internet-speed-test.git
+git clone https://github.com/yourstrangeee/internet-speed-test.git
 ```
 
 Navigate to the project directory:
